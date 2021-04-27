@@ -1,8 +1,8 @@
 ---
 templateKey: index-page
-title: Great coffee with a conscience
+title: MONGOLIA
 image: /img/home-jumbotron.jpg
-heading: "This is bunines "
+heading: "Great coffee with a conscience "
 subheading: Support sustainable farming while enjoying a cup
 mainpitch:
   title: Why Kaldi
