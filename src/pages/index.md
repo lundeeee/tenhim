@@ -1,6 +1,6 @@
 ---
 templateKey: index-page
-title: CS GO GLOBAL OFFINCE AAA
+title: "MONGOLIAN NATIONAL CREW "
 image: /img/home-jumbotron.jpg
 heading: "Great coffee with a conscience "
 subheading: Support sustainable farming while enjoying a cup
